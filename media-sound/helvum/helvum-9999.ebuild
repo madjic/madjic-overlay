@@ -139,7 +139,7 @@ RESTRICT="mirror"
 
 LICENSE="Apache-2.0 BSD-3-Clause BSL-1.0 GPL-3.0-only ISC MIT Unlicense"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="**"
 
 DEPEND=">media-video/pipewire-0.3 >gui-libs/gtk-4 >dev-libs/glib-2"
 RDEPEND="${DEPEND}"
