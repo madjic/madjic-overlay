@@ -1,0 +1,13 @@
+# bootmanager
+sys-boot/efibootmgr
+sys-boot/refind
+
+# kernel
+virtual/dist-kernel
+sys-kernel/linux-firmware
+
+# splash
+sys-boot/plymouth
+
+# disk partitioning
+sys-apps/gptfdisk

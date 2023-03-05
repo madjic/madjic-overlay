@@ -1,0 +1,7 @@
+# fancy output
+app-misc/jq
+app-misc/yq
+app-misc/grc
+
+# browser
+www-client/lynx

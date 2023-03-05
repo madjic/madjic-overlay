@@ -1,0 +1,11 @@
+app-emulation/libvirt
+app-emulation/qemu
+sys-apps/radeontool
+app-misc/radeontop
+www-misc/profile-sync-daemon
+app-admin/bitwarden-desktop-bin
+dev-util/colorgcc
+app-arch/deb2targz
+app-text/multitail
+x11-misc/dmenu
+app-portage/pacvis

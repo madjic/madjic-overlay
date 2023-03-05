@@ -1,0 +1,7 @@
+sys-block/open-iscsi
+sys-block/open-isns
+sys-block/parted
+
+sys-fs/btrfs-progs
+sys-fs/cryptsetup
+sys-fs/ntfs3g

@@ -1,0 +1,15 @@
+# sudo
+app-admin/sudo
+
+# shell stuff
+app-eselect/eselect-sh
+app-shells/bash-completion
+app-shells/gentoo-bashcomp
+
+# tmux
+app-misc/tmux
+sys-process/htop
+
+# vim
+app-editors/vim
+app-vim/vim-tmux

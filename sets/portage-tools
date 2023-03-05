@@ -1,0 +1,13 @@
+@clang
+app-portage/gentoolkit
+app-portage/genlop
+sys-devel/distcc
+sys-devel/icecream
+dev-util/ccache
+#dev-util/sccache
+dev-vcs/git
+app-portage/cpuid2cpuflags
+app-eselect/eselect-repository
+app-portage/eix
+app-portage/flaggie
+app-eselect/eselect-python
