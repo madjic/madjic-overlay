@@ -13,7 +13,7 @@ IUSE="fzf
 DEPEND=""
 RDEPEND="media-video/mpv
 		net-misc/socat
-		sys-alternatives/awk
+		app-alternatives/awk
 		sys-apps/sed
 		app-misc/jq
 		x11-libs/libnotify
