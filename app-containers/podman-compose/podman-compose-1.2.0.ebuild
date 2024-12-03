@@ -10,7 +10,7 @@ inherit distutils-r1
 
 DESCRIPTION="Run docker-compose files without root with podman"
 HOMEPAGE="https://pypi.org/project/podman-compose https://github.com/containers/podman-compose"
-SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
+SRC_URI="https://github.com/containers/podman-compose/archive/refs/tags/v${PVR}.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
